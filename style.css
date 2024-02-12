@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background: #7effd2;
+}
+
+.rules{
+    text-align: justify;
+    padding: 0 505px;
+}
+
+#board {
+    background-color: black;
+    border-top: 5px solid skyblue;
+    border-left: 5px solid skyblue;
+    border-right: 5px solid skyblue;
+    border-bottom: 5px solid skyblue;
+}
