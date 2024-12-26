@@ -1,3 +1,3 @@
 # Brick-Breaker-Game
 
-Open the 'index.html' file
+Demo: https://ojas-17.github.io/Brick-Breaker-Game/
